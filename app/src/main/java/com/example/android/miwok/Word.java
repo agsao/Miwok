@@ -11,8 +11,6 @@ public class Word {
     }
 
     public Word(String defaultTranslation, String miwokTranslation, int imageResourceID,int audioResourceID) {
-//        this.mMiwokTranslation = miwokTranslation;
-//        this.mDefaultTranslation = defaultTranslation;
         this(defaultTranslation, miwokTranslation,audioResourceID);
         this.mImageResourceID = imageResourceID;
     }

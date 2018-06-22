@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="category_phrases">جُمل</string>
+    <string name="category_colors">الألوان</string>
+    <string name="category_numbers">الأرقام</string>
+    <string name="category_family">أفراد العائلة</string>
+    <string name="numbers_one">واحد</string>
+    <string name="numbers_two">إثنان</string>
+    <string name="numbers_three">ثلاثة</string>
+    <string name="numbers_four">أربعة</string>
+    <string name="numbers_five">خمسة</string>
+    <string name="numbers_six">ستة</string>
+    <string name="numbers_seven">سبعة</string>
+    <string name="numbers_eight">ثمانية</string>
+    <string name="numbers_nine">تسعة</string>
+    <string name="numbers_ten">عشرة</string>
+    <string name="colors_red">أحمر</string>
+    <string name="colors_green">أخضر</string>
+    <string name="colors_brown">بني</string>
+    <string name="colors_gray">رمادي</string>
+    <string name="colors_black">أسود</string>
+    <string name="colors_white">أبيض</string>
+    <string name="colors_dusty_yellow">أصفر رملي</string>
+    <string name="colors_mustard_yellow">أصفر خردلي</string>
+    <string name="family_father">أب</string>
+    <string name="family_mother">أم</string>
+    <string name="family_son">ابن</string>
+    <string name="family_daughter">ابنة</string>
+    <string name="family_older_brother">أخ كبير</string>
+    <string name="family_younger_brother">أخ صغير</string>
+    <string name="family_older_sister">أخت كبرى</string>
+    <string name="family_younger_sister">أخت صغرى</string>
+    <string name="phrases_where_are_you_going">إلى أين أنت ذاهب؟</string>
+    <string name="phrases_what_is_your_name">ما اسمك؟</string>
+    <string name="phrases_my_name_is">اسمي هو...</string>
+    <string name="phrases_how_are_you_feeling">ما هو شعورك؟</string>
+    <string name="phrases_im_feeling_good">شعوري جيد</string>
+    <string name="phrases_are_you_coming">هل أنت قادم؟</string>
+    <string name="phrases_im_coming">أنا قادم</string>
+    <string name="phrases_yes_im_coming">نعم, أنا قادم</string>
+    <string name="family_grandmother">جدة</string>
+    <string name="family_grandfather">جد</string>
+    <string name="tabs_abc">أ ب ج</string>
+    <string name="phrases_lets_go">هيا نذهب</string>
+    <string name="phrases_come_here">تعال إلى هنا</string>
+</resources>
